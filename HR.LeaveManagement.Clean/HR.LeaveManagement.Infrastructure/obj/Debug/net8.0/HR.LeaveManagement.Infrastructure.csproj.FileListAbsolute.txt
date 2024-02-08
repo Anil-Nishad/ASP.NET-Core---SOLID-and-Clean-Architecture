@@ -1,0 +1,17 @@
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.deps.json
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\refint\HR.LeaveManagement.Infrastructure.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\ref\HR.LeaveManagement.Infrastructure.dll
