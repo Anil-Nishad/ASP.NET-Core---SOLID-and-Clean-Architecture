@@ -1,0 +1,12 @@
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.deps.json
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.sourcelink.json
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+G:\ANIL\Practice\ASP.NET Core - Solid and Clean Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll
